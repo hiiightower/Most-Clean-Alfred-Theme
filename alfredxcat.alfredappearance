@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 7,
+      "subtext" : {
+        "size" : 12,
+        "colorSelected" : "#A9A9A9FF",
+        "font" : "System Light",
+        "color" : "#919191FF"
+      },
+      "shortcut" : {
+        "size" : 12,
+        "colorSelected" : "#0096FFFF",
+        "font" : "System Light",
+        "color" : "#929292FF"
+      },
+      "backgroundSelected" : "#FEFFFFFF",
+      "text" : {
+        "size" : 14,
+        "colorSelected" : "#0096FFFF",
+        "font" : "System Light",
+        "color" : "#5E5E5EFF"
+      },
+      "iconPaddingHorizontal" : 27,
+      "paddingVertical" : 14,
+      "iconSize" : 23
+    },
+    "search" : {
+      "paddingVertical" : 23,
+      "background" : "#212121FF",
+      "spacing" : 0,
+      "text" : {
+        "size" : 30,
+        "colorSelected" : "#000000FF",
+        "font" : "System Light",
+        "color" : "#FEFFFFFF"
+      },
+      "backgroundSelected" : "#F6D4FFFF"
+    },
+    "window" : {
+      "color" : "#F7F6F8FF",
+      "paddingHorizontal" : 0,
+      "width" : 715,
+      "borderPadding" : 0,
+      "borderColor" : "#202020FF",
+      "blur" : 0,
+      "roundness" : -63,
+      "paddingVertical" : 0
+    },
+    "credit" : "psychedelic.cat",
+    "separator" : {
+      "color" : "#E5E3E6FF",
+      "thickness" : 1
+    },
+    "scrollbar" : {
+      "color" : "#0096FFFF",
+      "thickness" : 7
+    },
+    "name" : "alfredxcat"
+  }
+}
